@@ -49,19 +49,19 @@ GET https://newsdata.io/api/1/news?apikey=pub_XXXXXX&category=business
 ---
 
 <h5>Home Page</h5>
-<img src="images/beranda.jpg" alt="Home" />
+<img src="foto/beranda.jpg" alt="Home" />
 
 <h5>Search Page</h5>
-<img src="images/search.jpg" alt="CSearch" />
+<img src="foto/search.jpg" alt="CSearch" />
 
 <h5>Bookmark Page</h5>
-<img src="images/bookmark.jpg" alt="Bookmark" />
+<img src="foto/bookmark.jpg" alt="Bookmark" />
 
 <h5>Category Page</h5>
-<img src="images/category.jpg" alt="Category" />
+<img src="foto/category.jpg" alt="Category" />
 
 <h5>No Internet Warning</h5>
-<img src="images/no-internet.jpg" alt="Category" />
+<img src="foto/no-internet.jpg" alt="Category" />
 
 <h3>📥 Installation</h3>
 
