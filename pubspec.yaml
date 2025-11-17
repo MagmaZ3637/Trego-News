@@ -49,6 +49,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   hive_generator: ^2.0.1 # Opsional, untuk generating adapters
+  mockito: ^5.4.4
   build_runner: ^2.4.0
   json_serializable: ^6.7.1
 
