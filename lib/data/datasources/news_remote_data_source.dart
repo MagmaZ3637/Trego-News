@@ -81,7 +81,7 @@ class NewsRemoteDataSource {
     }
   }
 
-  DateTime _parseDate(String dateString) {
+  /*DateTime _parseDate(String dateString) {
     try {
       // Format: "01 Jan 2024, Monday"
       final parts = dateString.split(' ');
@@ -95,13 +95,13 @@ class NewsRemoteDataSource {
       print('Date parsing error: $e');
     }
     return DateTime.now();
-  }
+  }*/
 
-  int _parseMonth(String month) {
+  /*int _parseMonth(String month) {
     const months = {
       'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
       'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
     };
     return months[month] ?? 1;
-  }
+  }*/
 }
