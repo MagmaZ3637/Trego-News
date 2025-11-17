@@ -15,7 +15,38 @@
 5. [x] Dapat disortir seperti berita tentang economy, crime, dll
 6. [x] Categories: Business, Crime, Domestic, Education, Entertainment, Food, Health, Lifestyle, Other, Politics, Science, Sports, Technology, Top, Tourism, World
 
+## 🗝️ API Key Documentation (newsdata.io)
+
+Aplikasi ini menggunakan layanan API dari **newsdata.io**.  
+Untuk menjalankan aplikasi dalam mode development atau membuat versi modifikasi, kamu membutuhkan **API Key**.
+
+---
+
+### 🔍 Cara Mendapatkan API Key
+
+1. Daftar di:  
+   https://newsdata.io/register
+2. Login ke dashboard.
+3. Ambil API key pada menu **API Keys**.
+
+---
+
+### 📌 Cara Menggunakan API Key di Aplikasi
+
+API key dimasukkan ke dalam request seperti berikut:
+`https://newsdata.io/api/1/news?apikey=YOUR_API_KEY&language=en`
+
+---
+
+### 📌 Contoh Request
+
+```http
+GET https://newsdata.io/api/1/news?apikey=pub_XXXXXX&category=business
+```
+
 <h3>📷 Pictures</h3>
+
+---
 
 <h5>Home Page</h5>
 <img src="images/Home.jpg" alt="Home Page" />
@@ -33,11 +64,16 @@
 
 <h3>📥 Installation</h3>
 
+---
+
 1. Download aplikasi Trego News Melalui `Releases`.
 2. Pilih file `trego-news.apk`.
 3. Install aplikasi nya, lalu aplikasi siap digunakan!
 
 <h3>🛠️ Installation For Development</h3>
+
+---
+
 <h4>Melalui Git:</h4>
 
 1. Pilih lokasi untuk project anda yang akan di development
