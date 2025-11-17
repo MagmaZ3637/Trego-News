@@ -61,7 +61,7 @@ GET https://newsdata.io/api/1/news?apikey=pub_XXXXXX&category=business
 <img src="foto/category.jpg" alt="Category" />
 
 <h5>No Internet Warning</h5>
-<img src="foto/no-internet.jpg" alt="Category" />
+<img src="foto/no_internet.jpg" alt="No Internet" />
 
 <h3>📥 Installation</h3>
 
