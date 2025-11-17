@@ -13,6 +13,7 @@
 3. [x] Bisa membagikan berita
 4. [x] Dapat mencari berita sesuai keinginan
 5. [x] Dapat disortir seperti berita tentang economy, crime, dll
+6. [x] Categories: Business, Crime, Domestic, Education, Entertainment, Food, Health, Lifestyle, Other, Politics, Science, Sports, Technology, Top, Tourism, World
 
 <h3>📷 Pictures</h3>
 
